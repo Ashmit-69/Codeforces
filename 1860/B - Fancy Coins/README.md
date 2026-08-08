@@ -1,0 +1,21 @@
+<h2><a href="https://codeforces.com/contest/1860/problem/B" target="_blank" rel="noopener noreferrer">1860B — Fancy Coins</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1200 |
+| **Language** | Java 21 |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 1860B](https://codeforces.com/contest/1860/problem/B) |
+
+## Topics
+`binary search` `brute force` `greedy` `math`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">B. Fancy Coins</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>Monocarp is going to make a purchase with cost of exactly $$$m$$$ burles.</p><p>He has two types of coins, in the following quantities: </p><ul> <li> coins worth $$$1$$$ burle: $$$a_1$$$ regular coins and infinitely many fancy coins; </li><li> coins worth $$$k$$$ burles: $$$a_k$$$ regular coins and infinitely many fancy coins. </li></ul><p>Monocarp wants to make his purchase in such a way that there's <span class="tex-font-style-bf">no change</span> — the total worth of provided coins is <span class="tex-font-style-bf">exactly</span> $$$m$$$. He can use both regular and fancy coins. However, he wants to spend as little fancy coins as possible.</p><p>What's the smallest total number of fancy coins he can use to make a purchase?</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line contains a single integer $$$t$$$ ($$$1 \le t \le 3 \cdot 10^4$$$) — the number of testcases.</p><p>The only line of each testcase contains four integers $$$m, k, a_1$$$ and $$$a_k$$$ ($$$1 \le m \le 10^8$$$; $$$2 \le k \le 10^8$$$; $$$0 \le a_1, a_k \le 10^8$$$) — the cost of the purchase, the worth of the second type of coin and the amounts of regular coins of both types, respectively.</p></div><div class="output-specification"><div class="section-title">Output</div><p>For each testcase, print a single integer — the smallest total number of fancy coins Monocarp can use to make a purchase.</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id009058599879522476" id="id0006573604442432035" class="input-output-copier">Copy</div></div><pre id="id009058599879522476"><div class="test-example-line test-example-line-even test-example-line-0">4</div><div class="test-example-line test-example-line-odd test-example-line-1">11 3 0 0</div><div class="test-example-line test-example-line-even test-example-line-2">11 3 20 20</div><div class="test-example-line test-example-line-odd test-example-line-3">11 3 6 1</div><div class="test-example-line test-example-line-even test-example-line-4">100000000 2 0 0</div></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id00060241581279444456" id="id009651355847319483" class="input-output-copier">Copy</div></div><pre id="id00060241581279444456">5
+0
+1
+50000000
+</pre></div></div></div><div class="note"><div class="section-title">Note</div><p>In the first testcase, there are no regular coins of either type. Monocarp can use $$$2$$$ fancy coins worth $$$1$$$ burle and $$$3$$$ fancy coins worth $$$3$$$ (since $$$k=3$$$) burles to get $$$11$$$ total burles with $$$5$$$ total fancy coins.</p><p>In the second testcase, Monocarp has a lot of regular coins of both types. He can use $$$11$$$ regular coins worth $$$1$$$ burle, for example. Notice that Monocarp doesn't have to minimize the total number of used coins. That way he uses $$$0$$$ fancy coins.</p><p>In the third testcase, Monocarp can use $$$5$$$ regular coins worth $$$1$$$ burle and $$$1$$$ regular coin worth $$$3$$$ burles. That will get him to $$$8$$$ total burles when he needs $$$11$$$. So, $$$1$$$ fancy coin worth $$$3$$$ burles is enough.</p></div>
