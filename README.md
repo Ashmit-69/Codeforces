@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 15 | 16 |
+| 16 | 16 |
 
 ---
 
@@ -20,10 +20,10 @@
 - [divide and conquer](#divide-and-conquer) (5)
 - [dp](#dp) (2)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (3)
+- [greedy](#greedy) (4)
 - [implementation](#implementation) (7)
 - [interactive](#interactive) (1)
-- [math](#math) (6)
+- [math](#math) (7)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (2)
 - [strings](#strings) (1)
@@ -101,6 +101,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/231/A%20-%20Team/solution.java) |
 | 1860B | [Fancy Coins](https://codeforces.com/contest/1860/problem/B) | 1200 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/1860/B%20-%20Fancy%20Coins/solution.java) |
 | 2237C | [Duck Surplus](https://codeforces.com/contest/2237/problem/C) | 1000 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2237/C%20-%20Duck%20Surplus/solution.java) |
@@ -128,6 +129,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
 | 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/230/B%20-%20T-primes/solution.java) |
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.java) |
 | 1167B | [Lost Numbers](https://codeforces.com/contest/1167/problem/B) | 1400 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/1167/B%20-%20Lost%20Numbers/solution.java) |
