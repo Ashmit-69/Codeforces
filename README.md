@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 16 | 16 |
+| 17 | 16 |
 
 ---
 
@@ -21,7 +21,7 @@
 - [dp](#dp) (2)
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (4)
-- [implementation](#implementation) (7)
+- [implementation](#implementation) (8)
 - [interactive](#interactive) (1)
 - [math](#math) (7)
 - [number theory](#number-theory) (1)
@@ -112,6 +112,7 @@
 |---|---------|------------|----------|
 | 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/230/B%20-%20T-primes/solution.java) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
+| 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.java) |
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.java) |
 | 1385D | [a-Good String](https://codeforces.com/contest/1385/problem/D) | 1500 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/1385/D%20-%20a-Good%20String/solution.java) |
 | 1490D | [Permutation Transformation](https://codeforces.com/contest/1490/problem/D) | 1200 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/1490/D%20-%20Permutation%20Transformation/solution.java) |
