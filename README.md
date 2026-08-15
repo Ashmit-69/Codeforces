@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 19 | 16 |
+| 20 | 16 |
 
 ---
 
@@ -21,9 +21,9 @@
 - [dp](#dp) (2)
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (4)
-- [implementation](#implementation) (8)
+- [implementation](#implementation) (9)
 - [interactive](#interactive) (1)
-- [math](#math) (8)
+- [math](#math) (9)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (2)
 - [strings](#strings) (1)
@@ -119,6 +119,7 @@
 | 1490D | [Permutation Transformation](https://codeforces.com/contest/1490/problem/D) | 1200 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/1490/D%20-%20Permutation%20Transformation/solution.java) |
 | 1915C | [Can I Square?](https://codeforces.com/contest/1915/problem/C) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/1915/C%20-%20Can%20I%20Square%3F/solution.java) |
 | 2250A | [Threshold Movement](https://codeforces.com/contest/2250/problem/A) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2250/A%20-%20Threshold%20Movement/solution.java) |
+| 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.java) |
 
 ### interactive
 
@@ -138,6 +139,7 @@
 | 1167B | [Lost Numbers](https://codeforces.com/contest/1167/problem/B) | 1400 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/1167/B%20-%20Lost%20Numbers/solution.java) |
 | 1860B | [Fancy Coins](https://codeforces.com/contest/1860/problem/B) | 1200 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/1860/B%20-%20Fancy%20Coins/solution.java) |
 | 2250A | [Threshold Movement](https://codeforces.com/contest/2250/problem/A) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2250/A%20-%20Threshold%20Movement/solution.java) |
+| 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.java) |
 
 ### number theory
 
