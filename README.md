@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 24 | 19 |
+| 25 | 19 |
 
 ---
 
@@ -23,12 +23,12 @@
 - [dp](#dp) (2)
 - [games](#games) (1)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (5)
+- [greedy](#greedy) (6)
 - [implementation](#implementation) (10)
 - [interactive](#interactive) (1)
 - [math](#math) (11)
 - [number theory](#number-theory) (1)
-- [sortings](#sortings) (3)
+- [sortings](#sortings) (4)
 - [strings](#strings) (1)
 - [trees](#trees) (1)
 
@@ -127,6 +127,7 @@
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/231/A%20-%20Team/solution.java) |
 | 1860B | [Fancy Coins](https://codeforces.com/contest/1860/problem/B) | 1200 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/1860/B%20-%20Fancy%20Coins/solution.java) |
 | 2237C | [Duck Surplus](https://codeforces.com/contest/2237/problem/C) | 1000 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2237/C%20-%20Duck%20Surplus/solution.java) |
+| 2254C2 | [Marenol (hard version)](https://codeforces.com/contest/2254/problem/C2) | 1200 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2254/C2%20-%20Marenol%20(hard%20version)/solution.java) |
 | 2255A | [Hot Potatoes at the Fairy Warehouse](https://codeforces.com/contest/2255/problem/A) | 1200 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2255/A%20-%20Hot%20Potatoes%20at%20the%20Fairy%20Warehouse/solution.java) |
 
 ### implementation
@@ -178,6 +179,7 @@
 |---|---------|------------|----------|
 | 1741D | [Masha and a Beautiful Tree](https://codeforces.com/contest/1741/problem/D) | 1300 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/1741/D%20-%20Masha%20and%20a%20Beautiful%20Tree/solution.java) |
 | 1915F | [Greetings](https://codeforces.com/contest/1915/problem/F) | 1500 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/1915/F%20-%20Greetings/solution.java) |
+| 2254C2 | [Marenol (hard version)](https://codeforces.com/contest/2254/problem/C2) | 1200 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2254/C2%20-%20Marenol%20(hard%20version)/solution.java) |
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.java) |
 
 ### strings
