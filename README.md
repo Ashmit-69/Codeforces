@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 25 | 19 |
+| 26 | 19 |
 
 ---
 
@@ -23,7 +23,7 @@
 - [dp](#dp) (2)
 - [games](#games) (1)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (6)
+- [greedy](#greedy) (7)
 - [implementation](#implementation) (10)
 - [interactive](#interactive) (1)
 - [math](#math) (11)
@@ -127,6 +127,7 @@
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/231/A%20-%20Team/solution.java) |
 | 1860B | [Fancy Coins](https://codeforces.com/contest/1860/problem/B) | 1200 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/1860/B%20-%20Fancy%20Coins/solution.java) |
 | 2237C | [Duck Surplus](https://codeforces.com/contest/2237/problem/C) | 1000 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2237/C%20-%20Duck%20Surplus/solution.java) |
+| 2254C1 | [Marenol (easy version)](https://codeforces.com/contest/2254/problem/C1) | 1000 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2254/C1%20-%20Marenol%20(easy%20version)/solution.java) |
 | 2254C2 | [Marenol (hard version)](https://codeforces.com/contest/2254/problem/C2) | 1200 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2254/C2%20-%20Marenol%20(hard%20version)/solution.java) |
 | 2255A | [Hot Potatoes at the Fairy Warehouse](https://codeforces.com/contest/2255/problem/A) | 1200 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2255/A%20-%20Hot%20Potatoes%20at%20the%20Fairy%20Warehouse/solution.java) |
 
