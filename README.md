@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 27 | 19 |
+| 28 | 20 |
 
 ---
 
@@ -24,13 +24,14 @@
 - [games](#games) (1)
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (7)
-- [implementation](#implementation) (10)
+- [implementation](#implementation) (11)
 - [interactive](#interactive) (1)
 - [math](#math) (12)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (5)
-- [strings](#strings) (1)
+- [strings](#strings) (2)
 - [trees](#trees) (1)
+- [two pointers](#two-pointers) (1)
 
 ---
 
@@ -144,6 +145,7 @@
 | 1490D | [Permutation Transformation](https://codeforces.com/contest/1490/problem/D) | 1200 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/1490/D%20-%20Permutation%20Transformation/solution.java) |
 | 1915C | [Can I Square?](https://codeforces.com/contest/1915/problem/C) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/1915/C%20-%20Can%20I%20Square%3F/solution.java) |
 | 2250A | [Threshold Movement](https://codeforces.com/contest/2250/problem/A) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2250/A%20-%20Threshold%20Movement/solution.java) |
+| 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | 900 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2254/B%20-%20Evanescent/solution.java) |
 | 2255A | [Hot Potatoes at the Fairy Warehouse](https://codeforces.com/contest/2255/problem/A) | 1200 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2255/A%20-%20Hot%20Potatoes%20at%20the%20Fairy%20Warehouse/solution.java) |
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.java) |
 
@@ -191,12 +193,19 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
+| 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | 900 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2254/B%20-%20Evanescent/solution.java) |
 
 ### trees
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1741D | [Masha and a Beautiful Tree](https://codeforces.com/contest/1741/problem/D) | 1300 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/1741/D%20-%20Masha%20and%20a%20Beautiful%20Tree/solution.java) |
+
+### two pointers
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | 900 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2254/B%20-%20Evanescent/solution.java) |
 
 ---
 
