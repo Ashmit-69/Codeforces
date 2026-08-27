@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 28 | 20 |
+| 29 | 21 |
 
 ---
 
@@ -16,13 +16,14 @@
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (9)
 - [combinatorics](#combinatorics) (1)
-- [constructive algorithms](#constructive-algorithms) (2)
+- [constructive algorithms](#constructive-algorithms) (3)
 - [data structures](#data-structures) (2)
-- [dfs and similar](#dfs-and-similar) (2)
+- [dfs and similar](#dfs-and-similar) (3)
 - [divide and conquer](#divide-and-conquer) (5)
 - [dp](#dp) (2)
+- [dsu](#dsu) (1)
 - [games](#games) (1)
-- [graphs](#graphs) (1)
+- [graphs](#graphs) (2)
 - [greedy](#greedy) (7)
 - [implementation](#implementation) (11)
 - [interactive](#interactive) (1)
@@ -30,7 +31,7 @@
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (5)
 - [strings](#strings) (2)
-- [trees](#trees) (1)
+- [trees](#trees) (2)
 - [two pointers](#two-pointers) (1)
 
 ---
@@ -77,6 +78,7 @@
 |---|---------|------------|----------|
 | 2250B | [String Construction](https://codeforces.com/contest/2250/problem/B) | 1000 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2250/B%20-%20String%20Construction/solution.java) |
 | 2254D | [Silhouette](https://codeforces.com/contest/2254/problem/D) | 1300 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2254/D%20-%20Silhouette/solution.java) |
+| 2257C | [Spying on the Beaver](https://codeforces.com/contest/2257/problem/C) | 1200 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2257/C%20-%20Spying%20on%20the%20Beaver/solution.java) |
 
 ### data structures
 
@@ -91,6 +93,7 @@
 |---|---------|------------|----------|
 | 1490D | [Permutation Transformation](https://codeforces.com/contest/1490/problem/D) | 1200 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/1490/D%20-%20Permutation%20Transformation/solution.java) |
 | 1741D | [Masha and a Beautiful Tree](https://codeforces.com/contest/1741/problem/D) | 1300 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/1741/D%20-%20Masha%20and%20a%20Beautiful%20Tree/solution.java) |
+| 2257C | [Spying on the Beaver](https://codeforces.com/contest/2257/problem/C) | 1200 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2257/C%20-%20Spying%20on%20the%20Beaver/solution.java) |
 
 ### divide and conquer
 
@@ -109,6 +112,12 @@
 | 1385D | [a-Good String](https://codeforces.com/contest/1385/problem/D) | 1500 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/1385/D%20-%20a-Good%20String/solution.java) |
 | 2244G | [Yura and Deadlines](https://codeforces.com/contest/2244/problem/G) | 1900 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2244/G%20-%20Yura%20and%20Deadlines/solution.java) |
 
+### dsu
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2257C | [Spying on the Beaver](https://codeforces.com/contest/2257/problem/C) | 1200 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2257/C%20-%20Spying%20on%20the%20Beaver/solution.java) |
+
 ### games
 
 | # | Problem | Difficulty | Solution |
@@ -120,6 +129,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1741D | [Masha and a Beautiful Tree](https://codeforces.com/contest/1741/problem/D) | 1300 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/1741/D%20-%20Masha%20and%20a%20Beautiful%20Tree/solution.java) |
+| 2257C | [Spying on the Beaver](https://codeforces.com/contest/2257/problem/C) | 1200 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2257/C%20-%20Spying%20on%20the%20Beaver/solution.java) |
 
 ### greedy
 
@@ -200,6 +210,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1741D | [Masha and a Beautiful Tree](https://codeforces.com/contest/1741/problem/D) | 1300 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/1741/D%20-%20Masha%20and%20a%20Beautiful%20Tree/solution.java) |
+| 2257C | [Spying on the Beaver](https://codeforces.com/contest/2257/problem/C) | 1200 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2257/C%20-%20Spying%20on%20the%20Beaver/solution.java) |
 
 ### two pointers
 
