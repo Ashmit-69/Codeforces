@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 29 | 21 |
+| 30 | 21 |
 
 ---
 
@@ -27,7 +27,7 @@
 - [greedy](#greedy) (7)
 - [implementation](#implementation) (11)
 - [interactive](#interactive) (1)
-- [math](#math) (12)
+- [math](#math) (13)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (5)
 - [strings](#strings) (2)
@@ -181,6 +181,7 @@
 | 2255B | [A Ribbon for Tomorrow](https://codeforces.com/contest/2255/problem/B) | 1600 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2255/B%20-%20A%20Ribbon%20for%20Tomorrow/solution.java) |
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.java) |
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.java) |
+| 2257B | [Gigantomachy](https://codeforces.com/contest/2257/problem/B) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2257/B%20-%20Gigantomachy/solution.java) |
 
 ### number theory
 
