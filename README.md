@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 30 | 21 |
+| 31 | 21 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [binary search](#binary-search) (5)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (9)
+- [brute force](#brute-force) (10)
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (3)
 - [data structures](#data-structures) (2)
@@ -30,7 +30,7 @@
 - [math](#math) (13)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (5)
-- [strings](#strings) (2)
+- [strings](#strings) (3)
 - [trees](#trees) (2)
 - [two pointers](#two-pointers) (1)
 
@@ -65,6 +65,7 @@
 | 1385D | [a-Good String](https://codeforces.com/contest/1385/problem/D) | 1500 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/1385/D%20-%20a-Good%20String/solution.java) |
 | 1860B | [Fancy Coins](https://codeforces.com/contest/1860/problem/B) | 1200 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/1860/B%20-%20Fancy%20Coins/solution.java) |
 | 2250A | [Threshold Movement](https://codeforces.com/contest/2250/problem/A) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2250/A%20-%20Threshold%20Movement/solution.java) |
+| 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.java) |
 
 ### combinatorics
 
@@ -205,6 +206,7 @@
 |---|---------|------------|----------|
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | 900 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2254/B%20-%20Evanescent/solution.java) |
+| 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.java) |
 
 ### trees
 
