@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 31 | 21 |
+| 32 | 21 |
 
 ---
 
@@ -25,11 +25,11 @@
 - [games](#games) (1)
 - [graphs](#graphs) (2)
 - [greedy](#greedy) (7)
-- [implementation](#implementation) (11)
+- [implementation](#implementation) (12)
 - [interactive](#interactive) (1)
 - [math](#math) (13)
 - [number theory](#number-theory) (1)
-- [sortings](#sortings) (5)
+- [sortings](#sortings) (6)
 - [strings](#strings) (3)
 - [trees](#trees) (2)
 - [two pointers](#two-pointers) (1)
@@ -156,6 +156,7 @@
 | 1490D | [Permutation Transformation](https://codeforces.com/contest/1490/problem/D) | 1200 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/1490/D%20-%20Permutation%20Transformation/solution.java) |
 | 1915C | [Can I Square?](https://codeforces.com/contest/1915/problem/C) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/1915/C%20-%20Can%20I%20Square%3F/solution.java) |
 | 2250A | [Threshold Movement](https://codeforces.com/contest/2250/problem/A) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2250/A%20-%20Threshold%20Movement/solution.java) |
+| 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2254/A%20-%20Riptide/solution.java) |
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | 900 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2254/B%20-%20Evanescent/solution.java) |
 | 2255A | [Hot Potatoes at the Fairy Warehouse](https://codeforces.com/contest/2255/problem/A) | 1200 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2255/A%20-%20Hot%20Potatoes%20at%20the%20Fairy%20Warehouse/solution.java) |
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.java) |
@@ -196,6 +197,7 @@
 |---|---------|------------|----------|
 | 1741D | [Masha and a Beautiful Tree](https://codeforces.com/contest/1741/problem/D) | 1300 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/1741/D%20-%20Masha%20and%20a%20Beautiful%20Tree/solution.java) |
 | 1915F | [Greetings](https://codeforces.com/contest/1915/problem/F) | 1500 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/1915/F%20-%20Greetings/solution.java) |
+| 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2254/A%20-%20Riptide/solution.java) |
 | 2254C2 | [Marenol (hard version)](https://codeforces.com/contest/2254/problem/C2) | 1200 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2254/C2%20-%20Marenol%20(hard%20version)/solution.java) |
 | 2254D | [Silhouette](https://codeforces.com/contest/2254/problem/D) | 1300 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2254/D%20-%20Silhouette/solution.java) |
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.java) |
