@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 33 | 21 |
+| 34 | 21 |
 
 ---
 
@@ -17,14 +17,14 @@
 - [brute force](#brute-force) (10)
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (3)
-- [data structures](#data-structures) (2)
+- [data structures](#data-structures) (3)
 - [dfs and similar](#dfs-and-similar) (3)
 - [divide and conquer](#divide-and-conquer) (5)
 - [dp](#dp) (3)
 - [dsu](#dsu) (1)
 - [games](#games) (1)
 - [graphs](#graphs) (2)
-- [greedy](#greedy) (8)
+- [greedy](#greedy) (9)
 - [implementation](#implementation) (12)
 - [interactive](#interactive) (1)
 - [math](#math) (14)
@@ -87,6 +87,7 @@
 |---|---------|------------|----------|
 | 1915F | [Greetings](https://codeforces.com/contest/1915/problem/F) | 1500 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/1915/F%20-%20Greetings/solution.java) |
 | 2244G | [Yura and Deadlines](https://codeforces.com/contest/2244/problem/G) | 1900 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2244/G%20-%20Yura%20and%20Deadlines/solution.java) |
+| 2252A | [Boss Fight](https://codeforces.com/contest/2252/problem/A) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2252/A%20-%20Boss%20Fight/solution.java) |
 
 ### dfs and similar
 
@@ -141,6 +142,7 @@
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/231/A%20-%20Team/solution.java) |
 | 1860B | [Fancy Coins](https://codeforces.com/contest/1860/problem/B) | 1200 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/1860/B%20-%20Fancy%20Coins/solution.java) |
 | 2237C | [Duck Surplus](https://codeforces.com/contest/2237/problem/C) | 1000 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2237/C%20-%20Duck%20Surplus/solution.java) |
+| 2252A | [Boss Fight](https://codeforces.com/contest/2252/problem/A) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2252/A%20-%20Boss%20Fight/solution.java) |
 | 2252B | [Always Changing](https://codeforces.com/contest/2252/problem/B) | 1100 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2252/B%20-%20Always%20Changing/solution.java) |
 | 2254C1 | [Marenol (easy version)](https://codeforces.com/contest/2254/problem/C1) | 1000 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2254/C1%20-%20Marenol%20(easy%20version)/solution.java) |
 | 2254C2 | [Marenol (hard version)](https://codeforces.com/contest/2254/problem/C2) | 1200 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2254/C2%20-%20Marenol%20(hard%20version)/solution.java) |
