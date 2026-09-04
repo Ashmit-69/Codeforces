@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 32 | 21 |
+| 33 | 21 |
 
 ---
 
@@ -20,17 +20,17 @@
 - [data structures](#data-structures) (2)
 - [dfs and similar](#dfs-and-similar) (3)
 - [divide and conquer](#divide-and-conquer) (5)
-- [dp](#dp) (2)
+- [dp](#dp) (3)
 - [dsu](#dsu) (1)
 - [games](#games) (1)
 - [graphs](#graphs) (2)
-- [greedy](#greedy) (7)
+- [greedy](#greedy) (8)
 - [implementation](#implementation) (12)
 - [interactive](#interactive) (1)
-- [math](#math) (13)
+- [math](#math) (14)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (6)
-- [strings](#strings) (3)
+- [strings](#strings) (4)
 - [trees](#trees) (2)
 - [two pointers](#two-pointers) (1)
 
@@ -112,6 +112,7 @@
 |---|---------|------------|----------|
 | 1385D | [a-Good String](https://codeforces.com/contest/1385/problem/D) | 1500 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/1385/D%20-%20a-Good%20String/solution.java) |
 | 2244G | [Yura and Deadlines](https://codeforces.com/contest/2244/problem/G) | 1900 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2244/G%20-%20Yura%20and%20Deadlines/solution.java) |
+| 2252B | [Always Changing](https://codeforces.com/contest/2252/problem/B) | 1100 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2252/B%20-%20Always%20Changing/solution.java) |
 
 ### dsu
 
@@ -140,6 +141,7 @@
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/231/A%20-%20Team/solution.java) |
 | 1860B | [Fancy Coins](https://codeforces.com/contest/1860/problem/B) | 1200 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/1860/B%20-%20Fancy%20Coins/solution.java) |
 | 2237C | [Duck Surplus](https://codeforces.com/contest/2237/problem/C) | 1000 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2237/C%20-%20Duck%20Surplus/solution.java) |
+| 2252B | [Always Changing](https://codeforces.com/contest/2252/problem/B) | 1100 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2252/B%20-%20Always%20Changing/solution.java) |
 | 2254C1 | [Marenol (easy version)](https://codeforces.com/contest/2254/problem/C1) | 1000 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2254/C1%20-%20Marenol%20(easy%20version)/solution.java) |
 | 2254C2 | [Marenol (hard version)](https://codeforces.com/contest/2254/problem/C2) | 1200 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2254/C2%20-%20Marenol%20(hard%20version)/solution.java) |
 | 2255A | [Hot Potatoes at the Fairy Warehouse](https://codeforces.com/contest/2255/problem/A) | 1200 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2255/A%20-%20Hot%20Potatoes%20at%20the%20Fairy%20Warehouse/solution.java) |
@@ -179,6 +181,7 @@
 | 1167B | [Lost Numbers](https://codeforces.com/contest/1167/problem/B) | 1400 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/1167/B%20-%20Lost%20Numbers/solution.java) |
 | 1860B | [Fancy Coins](https://codeforces.com/contest/1860/problem/B) | 1200 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/1860/B%20-%20Fancy%20Coins/solution.java) |
 | 2250A | [Threshold Movement](https://codeforces.com/contest/2250/problem/A) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2250/A%20-%20Threshold%20Movement/solution.java) |
+| 2252B | [Always Changing](https://codeforces.com/contest/2252/problem/B) | 1100 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2252/B%20-%20Always%20Changing/solution.java) |
 | 2254D | [Silhouette](https://codeforces.com/contest/2254/problem/D) | 1300 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2254/D%20-%20Silhouette/solution.java) |
 | 2255B | [A Ribbon for Tomorrow](https://codeforces.com/contest/2255/problem/B) | 1600 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2255/B%20-%20A%20Ribbon%20for%20Tomorrow/solution.java) |
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.java) |
@@ -207,6 +210,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
+| 2252B | [Always Changing](https://codeforces.com/contest/2252/problem/B) | 1100 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2252/B%20-%20Always%20Changing/solution.java) |
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | 900 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2254/B%20-%20Evanescent/solution.java) |
 | 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.java) |
 
