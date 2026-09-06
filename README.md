@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 35 | 21 |
+| 36 | 21 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [binary search](#binary-search) (5)
+- [binary search](#binary-search) (6)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (11)
 - [combinatorics](#combinatorics) (1)
@@ -25,14 +25,14 @@
 - [games](#games) (1)
 - [graphs](#graphs) (2)
 - [greedy](#greedy) (10)
-- [implementation](#implementation) (13)
+- [implementation](#implementation) (14)
 - [interactive](#interactive) (1)
-- [math](#math) (14)
-- [number theory](#number-theory) (1)
+- [math](#math) (15)
+- [number theory](#number-theory) (2)
 - [sortings](#sortings) (6)
 - [strings](#strings) (4)
 - [trees](#trees) (2)
-- [two pointers](#two-pointers) (1)
+- [two pointers](#two-pointers) (2)
 
 ---
 
@@ -45,6 +45,7 @@
 | 1860B | [Fancy Coins](https://codeforces.com/contest/1860/problem/B) | 1200 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/1860/B%20-%20Fancy%20Coins/solution.java) |
 | 1915C | [Can I Square?](https://codeforces.com/contest/1915/problem/C) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/1915/C%20-%20Can%20I%20Square%3F/solution.java) |
 | 2237C | [Duck Surplus](https://codeforces.com/contest/2237/problem/C) | 1000 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2237/C%20-%20Duck%20Surplus/solution.java) |
+| 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | 1600 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.java) |
 
 ### bitmasks
 
@@ -167,6 +168,7 @@
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | 900 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2254/B%20-%20Evanescent/solution.java) |
 | 2255A | [Hot Potatoes at the Fairy Warehouse](https://codeforces.com/contest/2255/problem/A) | 1200 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2255/A%20-%20Hot%20Potatoes%20at%20the%20Fairy%20Warehouse/solution.java) |
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.java) |
+| 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | 1600 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.java) |
 
 ### interactive
 
@@ -192,12 +194,14 @@
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.java) |
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.java) |
 | 2257B | [Gigantomachy](https://codeforces.com/contest/2257/problem/B) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2257/B%20-%20Gigantomachy/solution.java) |
+| 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | 1600 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.java) |
 
 ### number theory
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/230/B%20-%20T-primes/solution.java) |
+| 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | 1600 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.java) |
 
 ### sortings
 
@@ -231,6 +235,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | 900 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2254/B%20-%20Evanescent/solution.java) |
+| 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | 1600 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.java) |
 
 ---
 
