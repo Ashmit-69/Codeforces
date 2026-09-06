@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 34 | 21 |
+| 35 | 21 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [binary search](#binary-search) (5)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (10)
+- [brute force](#brute-force) (11)
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (3)
 - [data structures](#data-structures) (3)
@@ -24,8 +24,8 @@
 - [dsu](#dsu) (1)
 - [games](#games) (1)
 - [graphs](#graphs) (2)
-- [greedy](#greedy) (9)
-- [implementation](#implementation) (12)
+- [greedy](#greedy) (10)
+- [implementation](#implementation) (13)
 - [interactive](#interactive) (1)
 - [math](#math) (14)
 - [number theory](#number-theory) (1)
@@ -64,6 +64,7 @@
 | 1167B | [Lost Numbers](https://codeforces.com/contest/1167/problem/B) | 1400 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/1167/B%20-%20Lost%20Numbers/solution.java) |
 | 1385D | [a-Good String](https://codeforces.com/contest/1385/problem/D) | 1500 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/1385/D%20-%20a-Good%20String/solution.java) |
 | 1860B | [Fancy Coins](https://codeforces.com/contest/1860/problem/B) | 1200 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/1860/B%20-%20Fancy%20Coins/solution.java) |
+| 2249A | [Rank Subsequence](https://codeforces.com/contest/2249/problem/A) | 1300 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2249/A%20-%20Rank%20Subsequence/solution.java) |
 | 2250A | [Threshold Movement](https://codeforces.com/contest/2250/problem/A) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2250/A%20-%20Threshold%20Movement/solution.java) |
 | 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.java) |
 
@@ -142,6 +143,7 @@
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/231/A%20-%20Team/solution.java) |
 | 1860B | [Fancy Coins](https://codeforces.com/contest/1860/problem/B) | 1200 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/1860/B%20-%20Fancy%20Coins/solution.java) |
 | 2237C | [Duck Surplus](https://codeforces.com/contest/2237/problem/C) | 1000 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2237/C%20-%20Duck%20Surplus/solution.java) |
+| 2249A | [Rank Subsequence](https://codeforces.com/contest/2249/problem/A) | 1300 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2249/A%20-%20Rank%20Subsequence/solution.java) |
 | 2252A | [Boss Fight](https://codeforces.com/contest/2252/problem/A) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2252/A%20-%20Boss%20Fight/solution.java) |
 | 2252B | [Always Changing](https://codeforces.com/contest/2252/problem/B) | 1100 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2252/B%20-%20Always%20Changing/solution.java) |
 | 2254C1 | [Marenol (easy version)](https://codeforces.com/contest/2254/problem/C1) | 1000 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2254/C1%20-%20Marenol%20(easy%20version)/solution.java) |
@@ -159,6 +161,7 @@
 | 1385D | [a-Good String](https://codeforces.com/contest/1385/problem/D) | 1500 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/1385/D%20-%20a-Good%20String/solution.java) |
 | 1490D | [Permutation Transformation](https://codeforces.com/contest/1490/problem/D) | 1200 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/1490/D%20-%20Permutation%20Transformation/solution.java) |
 | 1915C | [Can I Square?](https://codeforces.com/contest/1915/problem/C) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/1915/C%20-%20Can%20I%20Square%3F/solution.java) |
+| 2249A | [Rank Subsequence](https://codeforces.com/contest/2249/problem/A) | 1300 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2249/A%20-%20Rank%20Subsequence/solution.java) |
 | 2250A | [Threshold Movement](https://codeforces.com/contest/2250/problem/A) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2250/A%20-%20Threshold%20Movement/solution.java) |
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2254/A%20-%20Riptide/solution.java) |
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | 900 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2254/B%20-%20Evanescent/solution.java) |
