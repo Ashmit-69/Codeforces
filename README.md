@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 36 | 21 |
+| 37 | 21 |
 
 ---
 
@@ -27,7 +27,7 @@
 - [greedy](#greedy) (10)
 - [implementation](#implementation) (14)
 - [interactive](#interactive) (1)
-- [math](#math) (15)
+- [math](#math) (16)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (6)
 - [strings](#strings) (4)
@@ -195,6 +195,7 @@
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.java) |
 | 2257B | [Gigantomachy](https://codeforces.com/contest/2257/problem/B) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2257/B%20-%20Gigantomachy/solution.java) |
 | 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | 1600 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.java) |
+| 2258A | [Odd Eraser](https://codeforces.com/contest/2258/problem/A) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2258/A%20-%20Odd%20Eraser/solution.java) |
 
 ### number theory
 
