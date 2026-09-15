@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 37 | 21 |
+| 38 | 21 |
 
 ---
 
@@ -27,8 +27,8 @@
 - [greedy](#greedy) (10)
 - [implementation](#implementation) (14)
 - [interactive](#interactive) (1)
-- [math](#math) (16)
-- [number theory](#number-theory) (2)
+- [math](#math) (17)
+- [number theory](#number-theory) (3)
 - [sortings](#sortings) (6)
 - [strings](#strings) (4)
 - [trees](#trees) (2)
@@ -196,6 +196,7 @@
 | 2257B | [Gigantomachy](https://codeforces.com/contest/2257/problem/B) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2257/B%20-%20Gigantomachy/solution.java) |
 | 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | 1600 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.java) |
 | 2258A | [Odd Eraser](https://codeforces.com/contest/2258/problem/A) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2258/A%20-%20Odd%20Eraser/solution.java) |
+| 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2259/B%20-%20Minus%20Two/solution.java) |
 
 ### number theory
 
@@ -203,6 +204,7 @@
 |---|---------|------------|----------|
 | 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/230/B%20-%20T-primes/solution.java) |
 | 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | 1600 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.java) |
+| 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2259/B%20-%20Minus%20Two/solution.java) |
 
 ### sortings
 
