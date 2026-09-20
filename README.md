@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 38 | 21 |
+| 39 | 21 |
 
 ---
 
@@ -17,17 +17,17 @@
 - [brute force](#brute-force) (11)
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (3)
-- [data structures](#data-structures) (3)
+- [data structures](#data-structures) (4)
 - [dfs and similar](#dfs-and-similar) (3)
 - [divide and conquer](#divide-and-conquer) (5)
 - [dp](#dp) (3)
 - [dsu](#dsu) (1)
 - [games](#games) (1)
 - [graphs](#graphs) (2)
-- [greedy](#greedy) (10)
+- [greedy](#greedy) (11)
 - [implementation](#implementation) (14)
 - [interactive](#interactive) (1)
-- [math](#math) (17)
+- [math](#math) (18)
 - [number theory](#number-theory) (3)
 - [sortings](#sortings) (6)
 - [strings](#strings) (4)
@@ -90,6 +90,7 @@
 | 1915F | [Greetings](https://codeforces.com/contest/1915/problem/F) | 1500 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/1915/F%20-%20Greetings/solution.java) |
 | 2244G | [Yura and Deadlines](https://codeforces.com/contest/2244/problem/G) | 1900 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2244/G%20-%20Yura%20and%20Deadlines/solution.java) |
 | 2252A | [Boss Fight](https://codeforces.com/contest/2252/problem/A) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2252/A%20-%20Boss%20Fight/solution.java) |
+| 2264B | [Knife's Pill Farm](https://codeforces.com/contest/2264/problem/B) | 1000 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2264/B%20-%20Knife's%20Pill%20Farm/solution.java) |
 
 ### dfs and similar
 
@@ -150,6 +151,7 @@
 | 2254C1 | [Marenol (easy version)](https://codeforces.com/contest/2254/problem/C1) | 1000 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2254/C1%20-%20Marenol%20(easy%20version)/solution.java) |
 | 2254C2 | [Marenol (hard version)](https://codeforces.com/contest/2254/problem/C2) | 1200 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2254/C2%20-%20Marenol%20(hard%20version)/solution.java) |
 | 2255A | [Hot Potatoes at the Fairy Warehouse](https://codeforces.com/contest/2255/problem/A) | 1200 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2255/A%20-%20Hot%20Potatoes%20at%20the%20Fairy%20Warehouse/solution.java) |
+| 2264B | [Knife's Pill Farm](https://codeforces.com/contest/2264/problem/B) | 1000 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2264/B%20-%20Knife's%20Pill%20Farm/solution.java) |
 
 ### implementation
 
@@ -197,6 +199,7 @@
 | 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | 1600 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.java) |
 | 2258A | [Odd Eraser](https://codeforces.com/contest/2258/problem/A) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2258/A%20-%20Odd%20Eraser/solution.java) |
 | 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2259/B%20-%20Minus%20Two/solution.java) |
+| 2264B | [Knife's Pill Farm](https://codeforces.com/contest/2264/problem/B) | 1000 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2264/B%20-%20Knife's%20Pill%20Farm/solution.java) |
 
 ### number theory
 
