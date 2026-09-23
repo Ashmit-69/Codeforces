@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 40 | 21 |
+| 41 | 21 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (11)
 - [combinatorics](#combinatorics) (1)
-- [constructive algorithms](#constructive-algorithms) (3)
+- [constructive algorithms](#constructive-algorithms) (4)
 - [data structures](#data-structures) (4)
 - [dfs and similar](#dfs-and-similar) (3)
 - [divide and conquer](#divide-and-conquer) (5)
@@ -82,6 +82,7 @@
 | 2250B | [String Construction](https://codeforces.com/contest/2250/problem/B) | 1000 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2250/B%20-%20String%20Construction/solution.java) |
 | 2254D | [Silhouette](https://codeforces.com/contest/2254/problem/D) | 1300 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2254/D%20-%20Silhouette/solution.java) |
 | 2257C | [Spying on the Beaver](https://codeforces.com/contest/2257/problem/C) | 1200 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2257/C%20-%20Spying%20on%20the%20Beaver/solution.java) |
+| 2263B | [Min Matrices](https://codeforces.com/contest/2263/problem/B) | 900 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2263/B%20-%20Min%20Matrices/solution.java) |
 
 ### data structures
 
