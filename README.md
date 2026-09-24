@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 41 | 21 |
+| 42 | 21 |
 
 ---
 
@@ -22,7 +22,7 @@
 - [divide and conquer](#divide-and-conquer) (5)
 - [dp](#dp) (3)
 - [dsu](#dsu) (1)
-- [games](#games) (1)
+- [games](#games) (2)
 - [graphs](#graphs) (2)
 - [greedy](#greedy) (11)
 - [implementation](#implementation) (15)
@@ -130,6 +130,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2255A | [Hot Potatoes at the Fairy Warehouse](https://codeforces.com/contest/2255/problem/A) | 1200 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2255/A%20-%20Hot%20Potatoes%20at%20the%20Fairy%20Warehouse/solution.java) |
+| 2263A | [Min Max Game](https://codeforces.com/contest/2263/problem/A) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2263/A%20-%20Min%20Max%20Game/solution.java) |
 
 ### graphs
 
