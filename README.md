@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 42 | 21 |
+| 43 | 21 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [binary search](#binary-search) (6)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (11)
+- [brute force](#brute-force) (12)
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (4)
 - [data structures](#data-structures) (4)
@@ -27,8 +27,8 @@
 - [greedy](#greedy) (11)
 - [implementation](#implementation) (15)
 - [interactive](#interactive) (1)
-- [math](#math) (18)
-- [number theory](#number-theory) (3)
+- [math](#math) (19)
+- [number theory](#number-theory) (4)
 - [sortings](#sortings) (7)
 - [strings](#strings) (4)
 - [trees](#trees) (2)
@@ -68,6 +68,7 @@
 | 2249A | [Rank Subsequence](https://codeforces.com/contest/2249/problem/A) | 1300 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2249/A%20-%20Rank%20Subsequence/solution.java) |
 | 2250A | [Threshold Movement](https://codeforces.com/contest/2250/problem/A) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2250/A%20-%20Threshold%20Movement/solution.java) |
 | 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.java) |
+| 2260B | [Monocarp and Projects](https://codeforces.com/contest/2260/problem/B) | 900 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2260/B%20-%20Monocarp%20and%20Projects/solution.java) |
 
 ### combinatorics
 
@@ -202,6 +203,7 @@
 | 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | 1600 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.java) |
 | 2258A | [Odd Eraser](https://codeforces.com/contest/2258/problem/A) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2258/A%20-%20Odd%20Eraser/solution.java) |
 | 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2259/B%20-%20Minus%20Two/solution.java) |
+| 2260B | [Monocarp and Projects](https://codeforces.com/contest/2260/problem/B) | 900 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2260/B%20-%20Monocarp%20and%20Projects/solution.java) |
 | 2264B | [Knife's Pill Farm](https://codeforces.com/contest/2264/problem/B) | 1000 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2264/B%20-%20Knife's%20Pill%20Farm/solution.java) |
 
 ### number theory
@@ -211,6 +213,7 @@
 | 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/230/B%20-%20T-primes/solution.java) |
 | 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | 1600 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.java) |
 | 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2259/B%20-%20Minus%20Two/solution.java) |
+| 2260B | [Monocarp and Projects](https://codeforces.com/contest/2260/problem/B) | 900 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2260/B%20-%20Monocarp%20and%20Projects/solution.java) |
 
 ### sortings
 
