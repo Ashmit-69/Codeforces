@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 44 | 21 |
+| 45 | 21 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [binary search](#binary-search) (6)
-- [bitmasks](#bitmasks) (1)
+- [bitmasks](#bitmasks) (2)
 - [brute force](#brute-force) (12)
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (5)
@@ -24,7 +24,7 @@
 - [dsu](#dsu) (1)
 - [games](#games) (2)
 - [graphs](#graphs) (2)
-- [greedy](#greedy) (12)
+- [greedy](#greedy) (13)
 - [implementation](#implementation) (15)
 - [interactive](#interactive) (1)
 - [math](#math) (19)
@@ -52,6 +52,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1385D | [a-Good String](https://codeforces.com/contest/1385/problem/D) | 1500 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/1385/D%20-%20a-Good%20String/solution.java) |
+| 2260C | [Maximize XOR, Minimize Operations](https://codeforces.com/contest/2260/problem/C) | 1300 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2260/C%20-%20Maximize%20XOR%2C%20Minimize%20Operations/solution.java) |
 
 ### brute force
 
@@ -155,6 +156,7 @@
 | 2254C1 | [Marenol (easy version)](https://codeforces.com/contest/2254/problem/C1) | 1000 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2254/C1%20-%20Marenol%20(easy%20version)/solution.java) |
 | 2254C2 | [Marenol (hard version)](https://codeforces.com/contest/2254/problem/C2) | 1200 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2254/C2%20-%20Marenol%20(hard%20version)/solution.java) |
 | 2255A | [Hot Potatoes at the Fairy Warehouse](https://codeforces.com/contest/2255/problem/A) | 1200 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2255/A%20-%20Hot%20Potatoes%20at%20the%20Fairy%20Warehouse/solution.java) |
+| 2260C | [Maximize XOR, Minimize Operations](https://codeforces.com/contest/2260/problem/C) | 1300 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2260/C%20-%20Maximize%20XOR%2C%20Minimize%20Operations/solution.java) |
 | 2262A1 | [Floor of MEX (Easy Version)](https://codeforces.com/contest/2262/problem/A1) | 1200 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2262/A1%20-%20Floor%20of%20MEX%20(Easy%20Version)/solution.java) |
 | 2264B | [Knife's Pill Farm](https://codeforces.com/contest/2264/problem/B) | 1000 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2264/B%20-%20Knife's%20Pill%20Farm/solution.java) |
 
