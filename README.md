@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 45 | 21 |
+| 46 | 21 |
 
 ---
 
@@ -25,7 +25,7 @@
 - [games](#games) (2)
 - [graphs](#graphs) (2)
 - [greedy](#greedy) (13)
-- [implementation](#implementation) (15)
+- [implementation](#implementation) (16)
 - [interactive](#interactive) (1)
 - [math](#math) (19)
 - [number theory](#number-theory) (4)
@@ -178,6 +178,7 @@
 | 2255A | [Hot Potatoes at the Fairy Warehouse](https://codeforces.com/contest/2255/problem/A) | 1200 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2255/A%20-%20Hot%20Potatoes%20at%20the%20Fairy%20Warehouse/solution.java) |
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.java) |
 | 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | 1600 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.java) |
+| 2260A | [Monocarp's Contest](https://codeforces.com/contest/2260/problem/A) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2260/A%20-%20Monocarp's%20Contest/solution.java) |
 | 2264A | [Rumb Needs a Hand](https://codeforces.com/contest/2264/problem/A) | 800 | [Java 21](https://github.com/Ashmit-69/Codeforces/blob/HEAD/2264/A%20-%20Rumb%20Needs%20a%20Hand/solution.java) |
 
 ### interactive
